@@ -218,7 +218,7 @@
 	</div>
 
 	<div class="heroe">
-
+		<h1>Gustavo Rosas Martinez</h1>
 		<h1>BIenvenidos a mi aplicacion hecha en: Codeingniter  <?= CodeIgniter\CodeIgniter::CI_VERSION ?></h1>
 
 		<h2>The small framework with powerful features</h2>
